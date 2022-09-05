@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [QUENT'S Hardware](https://quentshardware.fr/)
 
-- 🌱 I’m currently learning **Web, Python, ASM**
+- 🌱 I’m currently learning **Web, Python, WPF**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wokia-Dev](https://github.com/Wokia-Dev)
 

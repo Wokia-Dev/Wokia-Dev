@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wokia-Dev](https://github.com/Wokia-Dev)
 
-- 💬 Ask me about **16 years, lives in France.**
-
 - 📫 How to reach me **quentin.ruhf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
